@@ -11,6 +11,9 @@ I’m Junho Park, and I'm a student in the art & technology of Chung-Ang Univers
 #### 2. Additional Tools
 - Git
 
+### Projects
+- [TicTecToe Game Project](https://github.com/yourusername/awesome-project): A web app that helps users do XYZ.
+
 ## GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
