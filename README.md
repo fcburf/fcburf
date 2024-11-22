@@ -16,10 +16,10 @@ My goal is to continuously improve my game development skills, focusing on creat
 - ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white), ![VS Code](https://img.shields.io/badge/-VS%20Code-0078D7?logo=visualstudiocode&logoColor=white)
 
 ## 🧩 Projects ![Tic-Tac-Toe](https://img.shields.io/badge/Tic--Tac--Toe-Game-blue?logo=github&logoColor=white)
-- [Tic-Tac-Toe AI](https://github.com/fcburf/Tic-Tac-Toe): This is a simple AI-powered Tic-Tac-Toe game created with C++. A Tic-Tac-Toe game where you can play against an AI using the Minimax algorithm. The AI evaluates possible moves and chooses the optimal one, making for a challenging experience.
+- [**Tic-Tac-Toe AI**](https://github.com/fcburf/Tic-Tac-Toe): This is a simple AI-powered Tic-Tac-Toe game created with C++. A Tic-Tac-Toe game where you can play against an AI using the Minimax algorithm. The AI evaluates possible moves and chooses the optimal one, making for a challenging experience.
 
 ## 📬 Connect with Me
-- [Send me an email](https://mail.google.com/mail/?view=cm&fs=1&to=spjunho0@gmail.com&su=Your%20Subject&body=Your%20Message)
+- [**Send me an email**](https://mail.google.com/mail/?view=cm&fs=1&to=spjunho0@gmail.com&su=Your%20Subject&body=Your%20Message)
 - ![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white): `spjunho0@gmail.com`
 
 ## 💬 Let’s Collaborate!
@@ -27,7 +27,7 @@ I’m open to collaborating on open-source projects or innovative ideas. Get in 
 
 
 
-## GitHub Stats  
+## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 
