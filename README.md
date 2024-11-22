@@ -1,6 +1,9 @@
 # Hi there! 👋
 I’m Junho Park, a passionate developer with expertise in AI, game development, and problem-solving. I enjoy building projects that challenge my creativity and technical skills. 
 
+## 🎯 My Goal
+My goal is to continuously improve my game development skills, focusing on creating **engaging, and user-friendly games**. Eventually, I aim to collaborate on more complex gaming projects, contributing to both **indie games** and larger scale game development teams.
+
 <div align="center">
   <img src="https://your-image-url.com/banner.png" alt="Profile Banner" width="800"/>
 </div>
@@ -15,9 +18,14 @@ I’m Junho Park, a passionate developer with expertise in AI, game development,
 ## 🧩 Projects
 - [Tic-Tac-Toe AI](https://github.com/fcburf/Tic-Tac-Toe): A Tic-Tac-Toe game where you can play against an AI using the Minimax algorithm. The AI evaluates possible moves and chooses the optimal one, making for a challenging experience.
 
-### 📬 Connect with Me
+## 📬 Connect with Me
 - [Send me an email](https://mail.google.com/mail/?view=cm&fs=1&to=spjunho0@gmail.com&su=Your%20Subject&body=Your%20Message)
-- Gmail: spjunho0@gmail.com
+- ![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white): `spjunho0@gmail.com`
+
+## 💬 Let’s Collaborate!
+I’m open to collaborating on open-source projects or innovative ideas. Get in touch with the email above
+
+
 
 ## GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
