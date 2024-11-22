@@ -4,11 +4,6 @@ I’m Junho Park, a passionate developer with expertise in AI, game development,
 ## 🎯 My Goal
 My goal is to continuously improve my game development skills, focusing on creating **engaging, and user-friendly games**. Eventually, I aim to collaborate on more complex gaming projects, contributing to both **indie games** and larger scale game development teams.
 
-<div align="center">
-  <a href="https://github.com/fcburf/fcburf/issues/1#issue-2683097932">
-    <img src="https://your-image-url.com/banner.png" alt="Profile Banner" width="800"/>
-  </a>
-</div>
 
 ## 🚀 Tech Stack
 #### 1. Programming
