@@ -16,8 +16,8 @@ I’m Junho Park, a passionate developer with expertise in AI, game development,
 - [Tic-Tac-Toe AI](https://github.com/fcburf/Tic-Tac-Toe): A Tic-Tac-Toe game where you can play against an AI using the Minimax algorithm. The AI evaluates possible moves and chooses the optimal one, making for a challenging experience.
 
 ### 📬 Connect with Me
-- [Send me an email](https://mail.google.com/mail/?view=cm&fs=1&to=spjunho0@gmail.com&su=Your%20Subject&body=Your%20Message) spjunho0@gmail.com
-
+- [Send me an email](https://mail.google.com/mail/?view=cm&fs=1&to=spjunho0@gmail.com&su=Your%20Subject&body=Your%20Message)
+- Gmail: spjunho0@gmail.com
 
 ## GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
