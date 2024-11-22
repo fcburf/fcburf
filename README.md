@@ -12,7 +12,7 @@ I’m Junho Park, and I'm a student in the art & technology of Chung-Ang Univers
 - Git
 
 ### Projects
-- [TicTecToe Game Project]((https://github.com/fcburf/Tic-Tac-Toe)): A web app that helps users do XYZ.
+- [Tic-Tac-Toe AI](https://github.com/fcburf/Tic-Tac-Toe): A Tic-Tac-Toe game where you can play against an AI using the Minimax algorithm.
 
 ## GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
