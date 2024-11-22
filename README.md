@@ -27,7 +27,7 @@ I’m open to collaborating on open-source projects or innovative ideas. Get in 
 
 
 
-## 📊 GitHub Stats  
+## GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 
